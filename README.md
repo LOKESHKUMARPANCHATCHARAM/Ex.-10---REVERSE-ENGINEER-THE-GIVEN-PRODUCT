@@ -1,13 +1,14 @@
 # Ex.   4- REVERSE ENGINEER THE GIVEN PRODUCT
+
 ### DATE: 20.04.24 
 
 ## AIM: 
  To reverse engineering the product and prototyping the same in 3D printer.
 
 ## REQUIREMENTS:
-#### CURA 4.0 Software
-####  Autodesk Fusion 360
-#### System - Windows 7 or higher, 1 GB RAM.
+ ●	CURA 4.0 Software
+ ●	 Autodesk Fusion 360
+ ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 ### Step 1.:- 
@@ -31,7 +32,7 @@ after click the start option and select printing option standard as shown in bel
 After completing the all setting then click the Slice option and export the file in gcode Format.
 # Step 10.:- 
 After generate the gcode format then follow the these instruction 
-    Switch on the 3d printer.
+    ●	Switch on the 3d printer.
     ●	Place your Pen drive in USB.
     ●	Clean your surface bed plate.
     ●	Load your filament into the required extruder as per the requirement.
@@ -44,8 +45,8 @@ After generate the gcode format then follow the these instruction
 ![input](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/b5484e06-6c0b-4972-b2ed-3182534f02b1)
 ### Output:
 
-#### Name: Sivaramakrishnan B
-#### Register Number: 212222110044
+#### Name: RA
+#### Register Number: 212223230169
 
 ![output](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/da432542-e8e0-4101-88bc-81de37b0d043)
 
