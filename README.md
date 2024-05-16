@@ -48,8 +48,8 @@ After generate the gcode format then follow the these instruction
 ![input](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/b5484e06-6c0b-4972-b2ed-3182534f02b1)
 ### Output:
 
-#### Name: Sivaramakrishnan B
-#### Register Number: 212222110044
+#### Name: LOKESH KUMAR P
+#### Register Number: 212222240054
 
 ![output](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/da432542-e8e0-4101-88bc-81de37b0d043)
 
